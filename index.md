@@ -6,3 +6,7 @@ commit
 ``` javascript
 var variabila = 27;
 ```
+
+- [x] Cerinta 1
+- [ ] Cerina 2
+- [x] Cerinta 3
